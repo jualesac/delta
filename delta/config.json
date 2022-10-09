@@ -1,0 +1,10 @@
+{
+    "index": {
+        "index": {
+            "append": "index",
+            "html": "./index.html",
+            "css": "",
+            "script": "./js/index.js"
+        }
+    }
+}
