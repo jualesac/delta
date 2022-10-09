@@ -1,0 +1,10 @@
+{
+    "app1": {
+        "index": {
+            "append": "content",
+            "html": "./index.html",
+            "css": "./css/style.css",
+            "script": "./js/index.js"
+        }
+    }
+}
