@@ -1,3 +1,12 @@
+/*
+ * FECHA: 2022/10/09
+ * AUTOR: Julio Alejandro Santos Corona
+ * CORREO: jualesac@yahoo.com
+ * TÍTULO: _js.js
+ *
+ * Descripción: Ejecuci
+*/
+
 "use strict";
 
 async function delta (callback) {
