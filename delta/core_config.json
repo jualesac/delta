@@ -1,0 +1,36 @@
+{
+    "config": {
+        "backend": "./atomic/index.php",
+
+        "logout": {
+            "baseTime": 60000,
+            "limit": 15
+        },
+
+        "accessPoint": {
+            "index": {
+                "path": "./delta",
+                "access": "/MAIN"
+            },
+
+            "apps": {
+                "path": "./apps",
+                "access": "/APP"
+            }
+        }
+    },
+
+    "modules": {
+        "0": "_js/_js.js",
+        "1": "ajax/ajax.js",
+        "2": "render/render.js",
+        "3": "core/fx.js",
+        "4": "core/functions.js",
+        "5": "core/stdCore.js",
+        "6": "core/core.js"
+    },
+
+    "extensions": {
+        "0": "ext/extension/main.js"
+    }
+}
