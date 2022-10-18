@@ -2,9 +2,9 @@
  * FECHA: 2022/10/09
  * AUTOR: Julio Alejandro Santos Corona
  * CORREO: jualesac@yahoo.com
- * TÍTULO: _js.js
+ * TÍTULO: index.js
  *
- * Descripción: Ejecuci
+ * Descripción: Ejecución principal.
 */
 
 "use strict";
